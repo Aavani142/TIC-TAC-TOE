@@ -4,6 +4,8 @@ A simple and fun Tic Tac Toe game built using HTML, CSS, and JavaScript. This pr
 
 ## Live Demo
 
+https://aavani142.github.io/TIC-TAC-TOE/
+
 ## Features
  - Two-player mode
 
